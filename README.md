@@ -1,6 +1,6 @@
 # 🏡 PREDICTION OF HOME PRICES
 
-![preview](./assets/model_evaluation.png)
+![preview](/assests/model_evaluation.png)
 
 A data science project aimed at predicting home prices using supervised regression techniques. The goal is to help buyers, sellers, and real state agents make more informed decisions based on property features and market behavior.
 
